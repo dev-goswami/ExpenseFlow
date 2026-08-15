@@ -1,0 +1,6 @@
+node_modules/
+.env
+BRD.md
+.vscode/    
+.DS_Store
+dist/
